@@ -28,6 +28,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap-theme.min.css",
               "src/styles.scss"
             ],
             "scripts": []
@@ -123,6 +124,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-books"
+    }
+  },
+  "defaultProject": "my-books",
+  "cli": {
+    "analytics": "bac32acc-8689-4517-8e6e-3284e590142a"
+  }
 }
